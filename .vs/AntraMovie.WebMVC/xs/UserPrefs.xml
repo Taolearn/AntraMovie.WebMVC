@@ -33,7 +33,7 @@
       <File FileName="AntraMovie.Infrastructure/Repository/CastRepositoryAsync.cs" Line="10" Column="10" />
       <File FileName="AntraMovie.Infrastructure/Repository/PurchaseRepositoryAsync.cs" Line="13" Column="2" />
       <File FileName="AntraMovie.Infrastructure/Repository/ReportRepositoryAsync.cs" Line="15" Column="1" />
-      <File FileName="AntraMovie.Infrastructure/Service/MovieServiceAsync.cs" Line="16" Column="1" />
+      <File FileName="AntraMovie.Infrastructure/Service/MovieServiceAsync.cs" Line="17" Column="42" />
       <File FileName="AntraMovie.Infrastructure/Repository/MovieRepositoryAsync.cs" Line="1" Column="1" />
       <File FileName="AntraMovie.Core/Contracts/Service/IMovieServiceAsync.cs" Line="16" Column="1" />
       <File FileName="AntraMovie.Core/Model/CastModel.cs" Line="6" Column="1" />
@@ -60,9 +60,7 @@
             <Node name="AntraMovie.Infrastructure" expanded="True">
               <Node name="Data" expanded="True" />
               <Node name="Repository" expanded="True" />
-              <Node name="Service" expanded="True">
-                <Node name="MovieServiceAsync.cs" selected="True" />
-              </Node>
+              <Node name="Service" expanded="True" />
             </Node>
             <Node name="AntraMovie.WebMVC" expanded="True">
               <Node name="Controllers" expanded="True" />
